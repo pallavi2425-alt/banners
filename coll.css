@@ -1,0 +1,1443 @@
+/*
+ .div{
+font-size:20px;
+float: left;
+    padding-right: 200px;
+ }
+ .div i{
+    float: left;
+    margin: 5px;
+    padding-left: 70px;
+    
+}
+ 
+ .div b{
+
+ }
+ .anchor{
+
+ }
+ .anchor a{
+    text-transform: capitalize;
+    padding-right: 10px;
+    text-decoration: none;
+    color: black;
+ }
+ .heading{
+
+ }
+ .bgimage{
+    background-image: url(https://jigarsable.vercel.app/_next/image?url=%2Fherobgc.jpg&w=1920&q=100);
+    height: 80%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repaet;
+}
+ .h1{
+
+ }
+ .heading h1{
+    text-transform: capitalize;
+    margin-left:100px;
+ }
+ .heading h1 b{
+    color: orange;
+}
+ 
+ .heading h3 {
+margin-left:100px;
+text-transform: capitalize;
+ }
+ .heading h3 b{
+    color: red;
+ }
+ .heading button{
+   margin-left: 100px;
+    text-transform: capitalize;
+    background-color: #7c3aed;
+    color: white;
+    padding: 15px 20px 15px 30px;
+    border: none;
+    border-radius: 15px;
+}
+ .heading button i{
+   padding-left: 10px;
+ }
+ .anch{
+   margin-left: 100px;
+   padding-top: 20px
+ }
+ .anch i{
+   border: solid;
+    border-radius: 100%;
+    padding: 5px;
+    background-color: black;
+    color: rgb(9, 153, 167);
+    border-color: black;
+    font-size: 20px;
+}
+ 
+ .image{
+    
+ }
+ .image img{
+
+ margin-top: 130px;
+    margin-left: 500px;
+    border-radius: 100%;
+    height: 300px;
+    width: 300px;
+ }
+
+
+
+
+
+
+
+
+                     login page
+
+ *{
+   margin:0px;
+   padding:0px;
+
+ }
+ .sign{
+   margin-left: 500px;
+
+ }
+ .form i{
+margin-top: 50px;
+    font-size: 30px;
+    margin-left: 100px;
+    color: lightgreen;
+}
+ 
+ .label{
+   margin-top:50px;
+ }
+ .label h1{
+   text-transform: capitalize;
+   font-size: 30px;
+ }
+ .label label{
+   line-height: 50px;
+   text-transform: capitalize;
+ }
+ .ladel label input{
+
+ }
+ .label i{
+ 
+   margin-top: 20px;
+   font-size: 18px;
+   border: solid;
+    background-color: deeppink;
+    border-color: deeppink;
+    color: white;
+ }
+ .label b{
+   font-size: 20px;
+    text-transform: capitalize;
+    margin-left: 5px;
+ }
+ 
+ .label  button{
+   margin-top: 30px;
+   height: 30px;
+   width: 250;
+   background-color: deeppink;
+   border: none;
+   color: white;
+   border-radius: 6px;
+   margin-left: 20px;
+   text-transform: uppercase;
+   font-family: bold;
+ }
+ .label h5{
+   margin-top: 9px;
+   margin-left: 150px;
+   font-size: 17px;
+   text-transform: capitalize;
+ }
+ .lines{
+  display: flex;
+      align-items: center;
+      margin-top: 6px;
+      margin-left: 30px;
+ }
+ .or{
+  border: solid;
+  padding: 1px;
+ }
+ .line{
+  border: solid;
+  height: 0px;
+  width: 100px;
+ }
+ .icons{
+   margin-left: 50px;
+   margin-top: 20px;
+
+ }
+ .icons h5{
+   margin-bottom: 30px;
+    margin-left: 60px;
+    border: solid;
+    height: 15px;
+    width: 30px;
+    text-align: center;
+    text-transform: uppercase;
+ }
+ 
+ .icons i{
+   margin-left: 20px;
+   border: solid;
+   padding: 5px 7px;
+   border-radius: 130px;
+ }
+ .icons h4{
+   margin-top: 15px;
+   text-transform: capitalize;
+ }
+ .icons span{
+   font-size: 20px;
+   border-bottom: solid 2px;
+   text-transform: uppercase;
+ }
+
+
+
+{
+  margin:0px;
+  padding:0px;
+}
+.bgcolor{
+  background-color: lightskyblue;
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+.box{
+  height: 550px;
+    width: 996px;
+    margin-left: 200px;
+    padding-top: 19px;
+    margin-top: 58px;
+    background-color: lightblue;
+}
+.main{
+  background-color: lightskyblue;
+  height: 100%;
+  width: 100%;
+  border:solid;
+}
+.pre{
+  display: flex;
+      justify-content: space-around;
+      padding-top: 40px;
+}
+.head{
+
+}
+.head b{
+  margin-right: 46px;
+  text-transform: capitalize;
+  font-size: 15px;
+  padding-left: 7px;
+
+}
+.head i{
+  font-size: 20px;
+  font-size: 20px;
+  background-color: blue;
+  padding: 3px;
+  border-radius: 18px
+}
+.anchor{
+
+}
+.anchor a{
+  margin-right: 10px;
+  text-decoration: none;
+  text-transform: capitalize;
+  padding-left: 30px;
+  color: black;
+}
+.anchor button{
+  margin-left: 130px;
+  padding: 3px 6px;
+  border: none;
+  border-radius: 6px;
+  background-color: blue;
+  color: white;
+}
+.search{
+  display:flex;
+}
+.mid{
+  margin-top: 60px;
+  margin-left: 100px;
+}
+.mid button{
+  padding: 10px;
+  text-transform: capitalize;
+  border: none;
+  border-radius: 25px;
+  background-color:lightpink;
+  color: red;
+}
+.mid i{
+  padding-left: 5px;
+}
+.mid h1{
+  text-transform: capitalize;
+  margin-bottom: 19px;
+  margin-top: 15px;
+  line-height:40px;
+}
+.mid h6{
+  line-height: 18px;
+  text-transform: capitalize;
+}
+
+.last{
+  display: flex;
+}
+
+.icons i{
+  padding: 10px;
+  color: red;
+    font-size: 16px;
+}
+.cnt{
+color:black;
+}
+.cnt h5{
+  padding: 7px;
+  padding-right: 30px;
+}
+.hr{
+  border-right: solid;
+  border-color:black;
+}
+
+.ele i{
+  margin-right: 90px;
+}
+.low{
+color:black;
+}
+.sub{
+  font-size: 14px;
+  height: 20px;
+  width: 21px;
+  border-radius: 21px;
+  padding-top: 7px;
+  padding-right: 4px;
+  margin-top: 11px;
+  background-color: blue;
+  color: white;
+
+}
+
+.pic{
+  padding-left: 70%;
+    margin-top: -300px; 
+  
+}
+.pic img{
+  height: 200px;
+  width: 150px;
+  padding-right:30px;
+  border-radius:100px;
+  background-color:red;
+  position:absolute;
+}
+.pic i{
+  font-size: 30px;
+    position: relative;
+    left: 153px;
+    top: 40px;
+}
+
+.icons img{
+
+    height: 37px;
+    width: 31px;
+    border-radius: 31px;
+    margin-left: 690px;
+    position: relative;
+    margin-top: 100px;
+
+}
+.girl img{
+  height: 65px;
+  width: 55px;
+  border-radius: 51px;
+  margin-left: 790px;
+  position: relative;
+}
+  
+*/
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.main{
+  display: flex ;
+      JUSTIFY-CONTENT: SPACE-AROUND;
+      margin-top: 30px;
+  
+}
+.head{
+  text-transform: capitalize;
+  font-size: 13px;
+
+}
+.head h1{
+color: red;
+}
+.head b{
+color: black;
+}
+.anchor{
+
+}
+.anchor a{
+  text-decoration: none;
+  padding-left: 30px;
+  text-transform: capitalize;
+}
+.but{
+
+}
+.but button{
+  text-transform: capitalize;
+  padding: 5px 14px;
+  border: none;
+  border-radius: 13px;
+  background-color: blue;
+  color: white;
+
+}
+
+.bgimage{
+  background-image: url(background.png);
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.body{
+
+}
+.cnt{
+display: flex;
+}
+.app{
+  padding-top: 335px;
+  padding-left: 220px;
+}
+.app button{
+  border-top-left-radius: 12px;
+    padding: 3px 3px;
+    border-top-right-radius: 12px;
+    text-transform: capitalize;
+    border: none;
+}
+
+.app i{
+  border: solid 1px orange;
+  font-size: 16px;
+  padding: 3px 3px;
+  border-radius: 15px;
+  background-color: orange;
+  color: white;
+}
+.app h5{
+
+}
+.headingh1{
+  padding-left: 220px;
+  padding-top: 20px;
+  text-transform: capitalize
+}
+.headingh1 h1{
+
+
+}
+.headingh1 h5{
+  padding-top: 10px;
+}
+.button{
+  display: flex;
+      padding-left: 220px;
+      padding-top: 40px;
+      align-items: center;
+}
+.button button{
+  padding: 6px 10px;
+  border-radius: 13px;
+  background-color: blue;
+  color: white;
+  border: none;
+  text-transform: capitalize;
+}
+.button h4{
+  padding-left: 30px;
+  color: blue;
+  font-size: 16px;
+}
+.image{
+
+}
+.image img{
+  height: 400px;
+    width: 250px;
+    padding-top: 200px;
+    padding-left: 300px;
+
+} 
+.page2{
+  padding-top: 50px;
+}
+.heading{
+  text-transform: capitalize;
+  text-align: center;
+  padding-top: 3px;
+  font-size: 15px;
+}
+.mid{
+  display: flex;
+  padding-top: 15px;
+  text-transform: capitalize;
+  font-size: 11px;
+  align-items: center;
+  padding-left: 170px;
+
+}
+.icon{
+padding-left: 240px;
+text-align: center;
+}
+.icon h1{
+
+}
+.icon span{
+
+}
+.eye{
+  padding-left: 50px;
+  text-align: center;
+}
+.eye i{
+  padding-left: 12px;
+  font-size: 25px;
+  
+}
+.eye h2{
+  font-size: 20px;
+
+}
+.eye span{
+  font-size: 15px;
+}
+.wtr{
+  padding-left: 50px;
+  text-align: center;
+}
+.wtr h2{
+  font-family: weight;
+  font-size: 25px;
+}
+.wtr sup{
+  font-size: 15px;
+}
+.wtr span{
+
+}
+.exp{
+  padding-left: 50px;
+  text-align: center;
+}
+.exp h3{
+  font-size: 20px;
+}
+.exp b{
+  font-size: 25px;
+}
+.man{
+  padding-left: 50px;
+
+}
+.man h2{
+  font-size: 25px;
+  background-color: aliceblue;
+  border: none;
+  padding: 3px 3px;
+}
+.img{
+
+  display: flex;
+  margin-top: 90px;
+  margin-left: 90px;
+  text-align: center;
+}
+.pht{
+  height: 500px;
+}
+.pht img{
+
+  height: 489px;
+
+}
+.midcnt{
+  padding-left: 350px;
+}
+.hd{
+
+}
+.hd h2{
+  font-size: 35px;
+}
+.hd h6{
+  font-size: 13px;
+  padding-top: 6px;
+}
+.lst{
+  display: flex;
+}
+.pic{
+
+}
+.pic img{
+  display: block;
+  height: 90px;
+  padding-top: 10px;
+}
+.fst {
+    font-size: 11px;
+    padding-left: 33px;
+}
+.fast{
+  padding-top: 19px;
+}
+.fast h1{
+  font-size: 25px;
+  text-transform: capitalize;
+  color:red;
+  padding-bottom: 6px;
+}
+.fast h5{
+  font-size: 10px;
+}
+.pro{
+  padding-top: 30px;
+}
+.pro h1{
+  font-size: 25px;
+  text-transform: capitalize;
+  color:blue;
+  padding-bottom: 6px;
+
+}
+.pro h5{
+  font-size: 10px;
+}
+.vec{
+padding-top: 20px;
+
+}
+.vec h1{
+  font-size: 25px;
+  text-transform: capitalize;
+  color: green;
+  padding-bottom: 6px;
+
+}
+.vec h5{
+  font-size: 10px;
+}
+.sma{
+display:flex;
+padding-left: 300px;
+}
+.jac{
+  padding-left: 140px;
+  padding-right: 30px;
+}
+.jac h1{
+  padding-right: 10px;
+}
+.hr{
+  border-right: thin solid;
+}
+.mat{
+  line-height: 15px;
+  padding-top: 20px;
+  font-size: 18px;
+}
+.mat h6{
+  padding-left: 69px;
+}
+.pagemid{
+  display: flex;
+      padding-top: 85px;
+      padding-left: 220px;
+}
+.icon1{
+    padding-left: 80px;
+}
+.icon1 h2{
+  text-transform: capitalize;
+    color: red;
+    padding-bottom: 10px;
+
+}
+.icon1 h5{
+
+}
+.icon2{
+  padding-left: 100px;
+}
+.icon2 h2{
+  text-transform: capitalize;
+  color: blue;
+  padding-bottom: 10px;
+}
+.icon2 h5{
+}
+.icon3{
+padding-left: 100px;
+}
+.icon3 h2{
+  text-transform: capitalize;
+  color: green;
+  padding-bottom: 10px;
+}
+.icon3 h5{
+  
+}
+.clr{
+display: flex;
+}
+.photo{
+
+}
+.photo img{
+  height: 400px;
+  width: 340px;
+  padding-top: 70px;
+  padding-left: 300px;
+}
+.mtr{
+  padding-top: 150px;
+  padding-left: 130px;
+}
+.mtr h1{
+  line-height: 30px;
+}
+.mtr h5{
+  padding-top: 18px;
+  line-height: 17px;
+  padding-bottom: 20px; 
+}
+.mtr button{
+  border: none;
+  padding: 10px 20px;
+  border-radius: 15px;
+  background-color: blue;
+  color: white;
+}
+.page4{
+
+}
+.hre{
+  text-align: center;
+  padding-top: 45px;
+}
+.hre h1{
+  line-height: 30px;
+}
+.hre h4{
+  padding-top: 20px;
+  line-height: 20px;
+}
+.hov{
+  display: flex;
+      padding-top: 50px;
+      padding-left: 355px;
+}
+.ics{
+
+}
+.ics i{
+  font-size: 45px;
+  padding: 20px 45px;
+}
+.ics h2{
+  font-size: 25px;
+  text-transform: capitalize;
+}
+.ics h5{
+  padding-top: 10px;
+  line-height: 15px;
+  text-align: center;
+}
+.ics1{
+  padding-left: 100px;
+
+}
+.ics1 i{
+  font-size: 45px;
+  padding: 20px 45px;
+}
+.ics1 h2{
+  font-size: 25px;
+  text-transform: capitalize;
+}
+.ics1 h5{
+  padding-top: 10px;
+  line-height: 15px;
+  text-align: center;
+}
+.ics2{
+padding-left: 100px;
+}
+.ics2 i{
+  font-size: 45px;
+  padding: 20px 45px;
+}
+.ics2 h2{
+  font-size: 25px;
+  text-transform: capitalize;
+}
+.ics2 h5{
+  padding-top: 10px;
+  line-height: 15px;
+  text-align: center;
+}
+.appl{
+  display: flex;
+      padding-top: 50px;
+      padding-left: 355px;
+}
+
+.cus{
+
+}
+.cus i{
+  font-size: 45px;
+  padding: 20px 45px;
+}
+.cus h2{
+  font-size: 25px;
+  text-transform: capitalize;
+}
+.cus h5{
+  padding-top: 10px;
+  line-height: 15px;
+  text-align: center;
+}
+.cus1{
+  padding-left: 100px;
+}
+.cus1 i{
+  font-size: 45px;
+  padding: 20px 45px;
+}
+.cus1 h2{
+  font-size: 25px;
+  text-transform: capitalize;
+}
+.cus1 h5{
+  padding-top: 10px;
+  line-height: 15px;
+  text-align: center;
+}
+.cus2{
+  padding-left: 100px;
+}
+.cus2 i{
+  font-size: 45px;
+  padding: 20px 45px;
+}
+.cus2 h2{
+  font-size: 25px;
+  text-transform: capitalize;
+}
+.cus2 h5{
+  padding-top: 10px;
+  line-height: 15px;
+  text-align: center;
+}
+.page5{
+
+}
+.h1{
+  padding-top: 50px;
+  padding-left: 300px;
+}
+.h1 h1{
+
+}
+.h1 h5{
+  line-height: 20px;
+}
+.sss{
+  display: flex;
+      text-align: center;
+      padding-left: 200px;
+}
+.inn{
+
+}
+.ins{
+  display: flex;
+      padding-top: 35px;
+      padding-left: 140px;
+}
+.iss{
+
+}
+.iss i{
+  font-size: 45px;
+  padding: 20px 45px;
+}
+.iss h2{
+  font-size: 25px;
+  text-transform: capitalize;
+}
+.iss h5{
+  padding-top: 10px;
+  line-height: 15px;
+
+}
+.iss1{
+  padding-left: 45px;
+}
+.iss1 i{
+  font-size: 45px;
+  padding: 20px 45px;
+}
+.iss1 h2{
+  font-size: 25px;
+  text-transform: capitalize;
+}
+.iss1 h5{
+  padding-top: 10px;
+    line-height: 15px;
+  
+}
+.hhh{
+  display: flex;
+  padding-top: 35px;
+  padding-left: 140px;
+}
+.idd{
+
+}
+.idd i{
+  font-size: 45px;
+  padding: 20px 45px;
+}
+.idd h2{
+  font-size: 25px;
+  text-transform: capitalize;
+}
+.idd h5{
+  padding-top: 10px;
+    line-height: 15px;
+  
+}
+.idd1{
+  padding-left: 45px;
+}
+.idd1 i{
+  font-size: 45px;
+  padding: 20px 45px;
+}
+.idd1 h2{
+  font-size: 25px;
+  text-transform: capitalize;
+}
+.idd1 h5{
+  padding-top: 10px;
+  line-height: 15px;
+  
+}
+.bun{
+  padding: 30px 180px;
+}
+.bun button{
+  padding: 10px 33px;
+  border-radius: 15px;
+  border: none;
+  background-color: blue;
+  color: white;
+}
+.ppp{
+
+}
+.ppp img{
+  height: 75%;
+  width: 70%;
+}
+.page6{
+
+}
+.pat{
+  padding-top: 15px;
+  text-align: center;
+}
+.get{
+
+}
+.get h1{
+  line-height: 35px;
+}
+.get h4{
+  line-height: 20px;
+  padding-top: 10px;
+}
+.pot{
+  padding-top: 60px;
+  
+    padding-left: 650px;
+}
+.mon{
+  width: 250px;
+  padding: 9px 7px;
+  background-color: white;
+  border-radius: 35px;
+  border: 0;
+  box-shadow: 0px 0px 51px blue;
+}
+.pot button{
+    text-transform: capitalize;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+}
+.pot h3{
+  display: inline;
+  padding-left: 60px;
+  text-transform: capitalize;
+}
+.box{
+display:flex ;
+}
+.box1{
+  margin-left: 230px;
+  height: 500px;
+  width: 300px;
+  text-align: center;
+  margin-top: 37px;
+}
+.oo{
+  text-align: center;
+  BACKGROUND-COLOR: aquamarine;
+  HEIGHT: 185PX;
+}
+.ll{
+      display: flex;
+          padding-left: 60px;
+          padding-top: 30px;
+}
+.ll i{
+  font-size: 40px;
+  padding-top: 7px;
+}
+
+.ll{
+  display: flex;
+      padding-left: 60px;
+      padding-top: 30px;
+}
+.hh{
+
+}
+.hh h5{
+  font-size: 48px;
+}
+.hh sub{
+
+}
+.bus{
+  padding-top: 15px;
+  text-transform: capitalize;
+ 
+}
+.bus h2{
+
+}
+.bus h3{
+
+}
+.mr{
+  padding-top: 40px;
+  line-height: 55px;
+  TEXT-ALIGN: CENTER;
+  padding-left: 0px;
+  
+  text-transform: capitalize;
+}
+.mr h3{
+
+}
+.mr button{
+  border: none;
+  padding: 13px 30px;
+  border-radius: 20px;
+  background-color: blue;
+  color: white;
+}
+.box2{
+  margin-left: 230px;
+  height: 550px;
+  width: 300px;
+  text-align: center;
+  margin-top: 37px;
+}
+.pp{
+  text-align: center;
+  BACKGROUND-COLOR: aquamarine;
+  HEIGHT: 185PX;
+}
+.aa{
+      display: flex;
+          padding-left: 60px;
+          padding-top: 30px;
+}
+.aa i{
+  font-size: 40px;
+  padding-top: 7px;
+}
+
+.jj{
+  display: flex;
+      padding-left: 60px;
+      padding-top: 30px;
+}
+
+.jj{
+  display: flex;
+  padding: 0px;
+}
+.jj h5{
+  font-size: 48px;
+}
+.jj sub{
+
+}
+.car{
+  padding-top: 15px;
+  text-transform: capitalize;
+ 
+}
+.car h2{
+
+}
+.car h3{
+
+}
+.mrt{
+  padding-top: 40px;
+  line-height: 55px;
+  TEXT-ALIGN: CENTER;
+  padding-left: 0px;
+  text-transform: capitalize;
+}
+.mrt h3{
+
+}
+.mrt button{
+  border: none;
+  padding: 13px 30px;
+  border-radius: 20px;
+  background-color: blue;
+  color: white;
+}
+.mrt h4{
+  font-size: 17px;
+  color: blue;
+  padding-top: 7px;
+}
+.page7{
+
+}
+.p7{
+  display: flex;
+  margin-top: 65px;
+    margin-left: 330px;
+}
+.ph1{
+
+}
+.ph1 img{
+  height: 400px;
+  width: 280px;
+}
+.mee{
+  margin-left: 250px;
+}
+.mee h1{
+  text-transform: capitalize;
+  font-size: 30px;
+}
+.mee h4{
+  padding-top: 15px;
+  line-height: 20px;
+}
+.mee i{
+  padding-top: 15px;
+  color: yellow;
+  font-size: 25px;
+}
+.mee h2{
+  text-transform: capitalize;
+  font-size: 20px;
+  padding-top: 15px;
+}
+.mee h4{
+
+}
+.pcc{
+  padding-top: 55px;
+  display: flex;
+  justify-content: space-around;
+}
+.anni{
+
+}
+.anni img{
+  height: 45px;
+  border-radius: 40px;
+  width: 45px;
+}
+.pix{
+  line-height: 23px;
+  text-transform: capitalize;
+}
+.pix b{
+  font-size: 18px;
+}
+.pix h5{
+
+}
+.arrow{
+
+}
+.arrow i{
+  padding-left: 10px;
+    padding-top: 15px;
+    font-size: 25px;
+    border: solid;
+    padding: 4px 5px;
+    border-radius: 25px;
+}
+.fre{
+  margin-top: 57px;
+  text-align: center;
+}
+.fre h3{
+  font-size: 33px;
+}
+.fre h6{
+  padding-top: 25px;
+  font-size: 15px;
+}
+.contact{
+  padding: 50px 410px;
+}
+.how{
+background-color: aliceblue;
+    padding: 7px 17px;
+}
+.how b{
+  font-size:20px;
+}
+.how h5{
+  padding-top: 29px;
+  line-height: 17px;
+}
+.insta{
+  padding-top: 12px;
+
+}
+.wed{
+    background-color: aliceblue;
+    padding:10px 10px;
+}
+.wed b{
+
+
+}
+.wed i{
+  padding-left: 258px;
+}
+.resp{
+  padding-top: 6px;
+
+}
+.dew{
+  background-color: aliceblue;
+  padding: 10px 10px;
+}
+.dew b{
+
+}
+.dew i{
+  padding-left: 338px;
+}
+.fix{
+  padding-top: 6px;
+}
+.wedi {
+  background-color: aliceblue;
+padding: 10px 10px;
+}
+.wedi b{
+
+}
+.wedi i{
+  padding-left: 407px;
+}
+.with{
+  padding-top: 6px;
+  
+}
+.sas{
+  background-color: aliceblue;
+  padding: 10px 10px;
+}
+.sas b{
+
+}
+.sas i{
+  padding-left: 658px;
+}
+.page8{
+
+}
+.down{
+  padding-left: 400px;
+  display: flex;
+}
+.our{
+
+}
+.our h1{
+
+}
+.our h4{
+  padding-top: 16px;
+  line-height: 25px;
+}
+.boo{
+display: flex;
+padding-top: 25px;
+}
+.google{
+
+}
+.button{
+
+}
+
+
+.ggg{
+
+}
+.ggg img{
+  height: 33px;
+  padding-top: 4px;
+
+}
+.google2{
+  padding-left: 30px;
+  text-transform: capitalize;
+  color: white;
+}
+.google2 h5{
+
+}
+.google2 b{
+  
+}
+.google b h2{
+
+}
+.store{
+padding-left: 40px;
+}
+.apple{
+
+}
+.apple i{
+  padding-top: 4px;
+  font-size: 30px;
+  color:white;
+}
+.the {
+  padding-left: 30px;
+  text-transform: capitalize;
+  color: white;
+
+}
+.the h5{
+
+}
+.the h5 b{
+
+}
+.map{
+
+}
+.map img{
+  height: 220px;
+  width: 200px;
+}
+.footer{
+height:40%;
+width:100%;
+background:darkblue;
+}
+.footer h3{
+  padding-top: 55px;
+  color: orange;
+  text-transform: capitalize;
+  font-size: 25px;
+}
+.footer h3 b{
+
+}
+.homo{
+  line-height: 60px;
+}
+.homo b{
+  padding-left: 60px;
+  color: white;
+  text-transform: capitalize;
+}
+.hash{
+
+}
+.hash i{
+  padding-left: 25px;
+  color: blue;
+  font-size: 23px;
+}
+.footer h6{
+  padding-top: 70px;
+  font-size: 15px;
+  text-transform: capitalize;
+  color: blue;
+}
